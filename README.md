@@ -7,6 +7,10 @@ A powerful and intelligent Telegram bot powered by Google's Gemini AI, offering 
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Owner](https://img.shields.io/badge/Owner-@nvkio-red?logo=telegram)](https://t.me/nvkio)
 
+## 📊 Repository Views
+
+![Views](https://profile-counter.glitch.me/Velo-AI-Telegram-Bot/count.svg)
+
 ## ✨ Features
 
 - 🧠 Powered by Google's Gemini AI for intelligent responses
